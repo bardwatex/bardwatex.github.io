@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bardwatex.github.io/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/app/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/assets/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/css/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/includes/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/item/bardwatex.bardwatex
+Sitemap: https://bardwatex.github.io/src/bardwatex.bardwatex
